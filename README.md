@@ -1,4 +1,4 @@
-## Hi there I'm Sai Chandu Tammineni 👋
+## Hi, I'm Sai Chandu Tammineni 👋
 
 <!--
 **saichandutammineni/saichandutammineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
+<!--
 
 Software Engineer pursuing a Masters in Computer Science at UC Irvine.
 
@@ -34,3 +34,34 @@ AI/ML: PyTorch, LangChain, RAG, Hugging Face, TensorFlow
 📫 Connect
 LinkedIn: https://www.linkedin.com/in/sai-chandu-tammineni/
 Email: sctammin@uci.edu
+-->
+
+
+CS Master's student at **UC Irvine** (Dec 2026) · 3 years of production SWE experience
+
+I build backend systems, event-driven pipelines, and AI/ML-powered applications. Currently working on [**OneClickApply AI**] — a Chrome Extension that tailors your resume and generates a cover letter for any job posting in one click.
+
+---
+
+### 🛠 What I work with
+
+**Languages** · Java · Python · TypeScript · C++ · SQL  
+**Backend** · Spring Boot · FastAPI · Kafka · Node.js  
+**AI/ML** · PyTorch · LangChain · RAG · vLLM · Hugging Face  
+**Infra** · PostgreSQL · Redis · Docker · Kubernetes · AWS  
+
+---
+
+### 🔍 Currently
+
+- 🎓 Masters in Computer Science @ UC Irvine (GPA 3.93)
+- 💼 Looking for **SWE roles** (backend / AI engineering) for Fall 2026
+- 🚀 Building **OneClickApply AI** — LLM-powered job application automation
+
+---
+
+
+### 📬 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-chandu-tammineni)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sctammin@uci.edu)
