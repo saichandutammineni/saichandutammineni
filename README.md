@@ -37,31 +37,13 @@ Email: sctammin@uci.edu
 -->
 
 
-CS Master's student at **UC Irvine** (Dec 2026) · 3 years of production SWE experience
+<h3 align="center">Hi, I'm Sai Chandu — CS grad student at UC Irvine</h3>
+<p align="center">Seeking SWE or AI Engineer roles · Graduating Fall 2026</p>
 
-I build backend systems, event-driven pipelines, and AI/ML-powered applications. Currently working on [**OneClickApply AI**] — a Chrome Extension that tailors your resume and generates a cover letter for any job posting in one click.
+- 💼 3 years of production SWE experience at &nbsp;<img src="https://www.betterplace.co.in/favicon.ico" height="14" style="vertical-align:middle;" /> **Betterplace** &nbsp;&amp;&nbsp; <img src="https://hashedin.com/favicon.ico" height="14" style="vertical-align:middle;" /> **Hashedin by Deloitte**
+- 🛠 Backend systems · Event-driven pipelines · AI/ML · Full-stack
+- ⚡ **Languages:** Java · Python · TypeScript &nbsp;|&nbsp; **Backend:** Spring Boot · FastAPI · Kafka &nbsp;|&nbsp; **AI/ML:** PyTorch · LangChain · RAG &nbsp;|&nbsp; **Infra:** PostgreSQL · Redis · Docker · Kubernetes · AWS
 
----
-
-### 🛠 What I work with
-
-**Languages** · Java · Python · TypeScript · C++ · SQL  
-**Backend** · Spring Boot · FastAPI · Kafka · Node.js  
-**AI/ML** · PyTorch · LangChain · RAG · vLLM · Hugging Face  
-**Infra** · PostgreSQL · Redis · Docker · Kubernetes · AWS  
-
----
-
-### 🔍 Currently
-
-- 🎓 Masters in Computer Science @ UC Irvine (GPA 3.93)
-- 💼 Looking for **SWE roles** (backend / AI engineering) for Fall 2026
-- 🚀 Building **OneClickApply AI** — LLM-powered job application automation
-
----
-
-
-### 📬 Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-chandu-tammineni)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sctammin@uci.edu)
+<p align="left">
+<a href="https://linkedin.com/in/sai-chandu-tammineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-chandu-tammineni" height="30" width="40" /></a>
+</p>
