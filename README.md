@@ -46,8 +46,9 @@ Email: sctammin@uci.edu
 - ⚡ **Languages:** Java · Python · TypeScript &nbsp;|&nbsp; **Backend:** Spring Boot · FastAPI · Kafka
 - ⚡ **AI/ML:** PyTorch · LangChain · RAG &nbsp;|&nbsp; **Infra:** PostgreSQL · Redis · Docker · Kubernetes · AWS
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/sai-chandu-tammineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-chandu-tammineni" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:sctammin@uci.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="sctammin@uci.edu" height="25" width="35" /></a>
-</p>
+</p> -->
+<p align="left"> <a href="https://linkedin.com/in/sai-chandu-tammineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-chandu-tammineni" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/saiChanduT/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="saiChanduT" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=oE_KVNwAAAAJ&hl=en&oi=ao" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp; <a href="mailto:sctammin@uci.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="sctammin@uci.edu" height="25" width="35" /></a> </p>
